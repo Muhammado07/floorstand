@@ -1351,3 +1351,7 @@ input[type="number"] {
     width: 140px;
   }
 }
+.ar .help-links .links .sup a .text {
+  padding-right: 10px;
+  font-family: "Maurea-BoldLf";
+}
